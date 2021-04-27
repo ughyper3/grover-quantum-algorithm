@@ -118,11 +118,9 @@ def GroverFunction(winner) :
         print('%i call(s) to the oracle used to find the state'%iteration_number[winner])
 
     except KeyError:
-         print("Invalid input : please input a state number between 00 and 11")
-         
+            print("Invalid input : please input a state number between 00 and 11")
+
 
 print("Enter the winner state between 00 and 11")
 winner = input() 
 GroverFunction(winner)
-
-
