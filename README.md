@@ -1,2 +1,2 @@
 # GroverQuantumAlgorithm
-Grover's Quantum algorithm simulation in IBM Qiskit librairie
+Grover's Quantum algorithm simulation with IBM Qiskit librairie
